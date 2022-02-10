@@ -1,4 +1,4 @@
-# Deploy a React app in Heroku
+# Deploy a React app on Heroku
 
 ```bash
 npm install -g create-react-app 
